@@ -7,6 +7,7 @@ public static void main(String[] args)
       //Calc app=new Calc();
       Scanner sc = new Scanner(System.in);
     int a,b,ch;
+    System.out.println("Hello");
     sc=new Scanner(System.in);
     System.out.println("Enter the two numbers");
     a = sc.nextInt();
